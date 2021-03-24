@@ -1,0 +1,13 @@
+.btn_arrow {
+  width: 50px;
+  height: 50px;
+  background: transparent;
+  border: none;
+  color: whitesmoke;
+}
+
+.btn_arrow:hover {
+  background-color: aliceblue;
+  color: #2861b1;
+  border-radius: 25px;
+}
